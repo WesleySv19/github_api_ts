@@ -3,7 +3,6 @@ import Search from "../../components/Search"
 import { UserProps } from "../../types/user"
 import User from "../../components/User"
 import Error from "../../components/Error"
-// import { useState } from "react"
 
 const Home = () => {
 
