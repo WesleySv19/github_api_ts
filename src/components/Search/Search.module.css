@@ -1,5 +1,5 @@
 .search {
-    background-color: #2b3566;
+    background-color: #1C1C1C;
     padding: 2rem;
     border-radius: 1rem;
     display: flex;
@@ -29,6 +29,6 @@
 }
 
 .search_container button {
-    background-color: #0e1129;
+    background-color: #B22222;
     cursor: pointer;
 }
